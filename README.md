@@ -29,5 +29,3 @@ An interactive dashboard designed to analyze and visualize the Vrindavan dataset
 Feel free to contribute by raising issues or submitting pull requests! 😊  
 
 --- 
-
-Let me know if you want any customizations or if you’d like to add specific tools used in the project.
